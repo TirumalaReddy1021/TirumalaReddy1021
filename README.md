@@ -18,21 +18,6 @@
 
 <br />
 
-<div align="center">
-  <table border="0" width="80%">
-    <tr>
-      <td>
-        <blockquote align="center">
-          <i>"Data is like garbage. You’d better know what you are going to do with it before you collect it."</i>
-          <br/>
-          <b>— Mark Twain</b>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
 
 ---
 
