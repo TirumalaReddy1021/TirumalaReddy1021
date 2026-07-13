@@ -99,11 +99,11 @@ I specialize in **transforming messy, unstructured data into clear, actionable i
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <h3>📉 Customer Churn Prediction Engine</h3>
+      <h3>✋ Gesture Control Console</h3>
       <ul>
-        <li><b>Problem:</b> High customer attrition rates were impacting recurring revenue.</li>
-        <li><b>Solution:</b> Developed a Random Forest classifier to identify high-risk customers with <b>92% Recall</b>.</li>
-        <li><b>Impact:</b> Enabled targeted marketing campaigns, potentially saving 15% of at-risk accounts.</li>
+        <li><b>Problem:</b>Traditional input devices limit touch-free interaction.</li>
+        <li><b>Solution:</b>Developed a real-time gesture recognition system using Python, OpenCV, and MediaPipe to control applications with hand gestures.</li>
+        <li><b>Impact:</b> Enabled intuitive hands-free control while demonstrating computer vision and real-time processing skills.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -118,12 +118,12 @@ I specialize in **transforming messy, unstructured data into clear, actionable i
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
-      <h3>👁️ Computer Vision for Quality Control</h3>
+   <td width="60%">
+      <h3>🛰️ Satellite Imagery Semantic Segmentation</h3>
       <ul>
-        <li><b>Problem:</b> Manual inspection in manufacturing was slow and error-prone.</li>
-        <li><b>Solution:</b> Built a CNN-based image classification model using TensorFlow/Keras to detect surface defects.</li>
-        <li><b>Impact:</b> Achieved 98% accuracy on test data, reducing inspection time by 40%.</li>
+        <li><b>Problem:</b>Manual land-cover classification from satellite images is slow and error-prone.</li>
+        <li><b>Solution:</b> Built a U-Net deep learning model to segment satellite images into multiple land-cover classes using TensorFlow/Keras.</li>
+        <li><b>Impact:</b> Enabled targeted marketing campaigns, potentially saving 15% of at-risk accounts.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -139,11 +139,11 @@ I specialize in **transforming messy, unstructured data into clear, actionable i
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <h3>💹 Interactive Sales Dashboard</h3>
+      <h3>📊 Microsoft AdventureWorks Sales Analytics</h3>
       <ul>
-        <li><b>Problem:</b> Stakeholders lacked real-time visibility into regional sales performance.</li>
-        <li><b>Solution:</b> Designed an interactive Tableau dashboard connecting to SQL databases for live tracking.</li>
-        <li><b>Impact:</b> Improved reporting efficiency by automating weekly data aggregation.</li>
+        <li><b>Problem:</b>Extracting meaningful insights from large sales databases is challenging.</li>
+        <li><b>Solution:</b>Analyzed AdventureWorks data using SQL Server and built interactive Power BI dashboards for sales, customers, products, and revenue trends.</li>
+        <li><b>Impact:</b>Delivered data-driven business insights through dynamic reports and KPI visualizations.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -159,16 +159,3 @@ I specialize in **transforming messy, unstructured data into clear, actionable i
 <br />
 
 ---
-
-<div align="center">
-  <h3>🧩 Consistency & Activity</h3>
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
-  
-  <br/>
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=SiddeGnaneswarReddy&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
-</div>
